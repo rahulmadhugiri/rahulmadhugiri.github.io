@@ -1,0 +1,436 @@
+[
+  {
+    "name": "Thai Basil",
+    "description": "Experience the rich flavors of Thai cuisine.",
+    "address": "San Jose, CA",
+    "imageURL": "",
+    "logoURL": "",
+    "cuisine": "Thai",
+    "restaurantID": "restaurant-000001",
+    "geoPoint": {
+      "latitude": 37.39599466974627, 
+      "longitude": -122.07897686128975
+    },  
+    "experiences": ["Casual Dining", "Rooftop"],
+    "categories": [
+      {
+        "name": "Starters",
+        "description": "Start your meal with delectable starters from Thailand",
+        "menuItems": [
+          {
+            "name": "Hot & Sour Prawns(2) & Mushroom Soup",
+            "description": "????",
+            "price": 9.99,
+            "imageURL": "",
+            "allergens": ["Gluten", "Soy"],
+            "dietaryNeeds": ["Non-Vegetarian"],
+            "customizationGroups": [
+              {
+                "name": "Dipping Sauce",
+                "maxModifiers": 1,
+                "customizations": [
+                  {
+                    "option": "Sweet Chili",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Soy Ginger",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Spicy Peanut",
+                    "priceModifier": 0.5
+                  }
+                ]
+              },
+              {
+                "name": "Sauce",
+                "maxModifiers": 1,
+                "customizations": [
+                  {
+                    "option": "Sweet Chili",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Soy Ginger",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Spicy Peanut",
+                    "priceModifier": 0.5
+                  }
+                ]
+              }
+            ]
+          }      
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Italian Delights",
+    "description": "Savor authentic Italian cuisine in a cozy atmosphere.",
+    "address": "New York, NY",
+    "imageURL": "",
+    "logoURL": "",
+    "cuisine": "Italian",
+    "restaurantID": "restaurant-000002",
+    "geoPoint": {
+      "latitude": 40.712776,
+      "longitude": -74.005974
+    },  
+    "experiences": ["Fine Dining", "Outdoor Seating"],
+    "categories": [
+      {
+        "name": "Pasta",
+        "description": "Indulge in a variety of mouthwatering pasta dishes",
+        "menuItems": [
+          {
+            "name": "Spaghetti Carbonara",
+            "description": "Classic pasta dish with eggs, cheese, pancetta, and black pepper",
+            "price": 14.99,
+            "imageURL": "",
+            "allergens": ["Eggs", "Dairy"],
+            "dietaryNeeds": ["Non-Vegetarian"],
+            "customizationGroups": [
+              {
+                "name": "Toppings",
+                "maxModifiers": 1,
+                "customizations": [
+                  {
+                    "option": "Mushrooms",
+                    "priceModifier": 2.0
+                  },
+                  {
+                    "option": "Shrimp",
+                    "priceModifier": 3.0
+                  }
+                ]
+              }
+            ]
+          }      
+        ]
+      },
+      {
+        "name": "Pizza",
+        "description": "Enjoy our handcrafted pizzas with fresh ingredients",
+        "menuItems": [
+          {
+            "name": "Margherita Pizza",
+            "description": "Classic pizza with tomato sauce, mozzarella, and basil",
+            "price": 12.99,
+            "imageURL": "",
+            "allergens": ["Dairy"],
+            "dietaryNeeds": ["Vegetarian"],
+            "customizationGroups": [
+              {
+                "name": "Toppings",
+                "maxModifiers": 3,
+                "customizations": [
+                  {
+                    "option": "Pepperoni",
+                    "priceModifier": 2.0
+                  },
+                  {
+                    "option": "Bell Peppers",
+                    "priceModifier": 1.5
+                  },
+                  {
+                    "option": "Olives",
+                    "priceModifier": 1.0
+                  }
+                ]
+              }
+            ]
+          }      
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sushi Paradise",
+    "description": "Experience the art of sushi making with our skilled chefs.",
+    "address": "Los Angeles, CA",
+    "imageURL": "",
+    "logoURL": "",
+    "cuisine": "Japanese",
+    "restaurantID": "restaurant-000003",
+    "geoPoint": {
+      "latitude": 34.052235,
+      "longitude": -118.243683
+    },  
+    "experiences": ["Sushi Bar", "Japanese Garden"],
+    "categories": [
+      {
+        "name": "Sushi Rolls",
+        "description": "Delight in a variety of sushi rolls made to perfection",
+        "menuItems": [
+          {
+            "name": "Rainbow Roll",
+            "description": "Assortment of fresh fish on a California roll",
+            "price": 16.99,
+            "imageURL": "",
+            "allergens": ["Fish", "Soy"],
+            "dietaryNeeds": ["Non-Vegetarian"],
+            "customizationGroups": [
+              {
+                "name": "Sauces",
+                "maxModifiers": 2,
+                "customizations": [
+                  {
+                    "option": "Eel Sauce",
+                    "priceModifier": 1.0
+                  },
+                  {
+                    "option": "Spicy Mayo",
+                    "priceModifier": 0.5
+                  }
+                ]
+              }
+            ]
+          }      
+        ]
+      },
+      {
+        "name": "Nigiri Sushi",
+        "description": "Savor individual pieces of fish on a bed of rice",
+        "menuItems": [
+          {
+            "name": "Salmon Nigiri",
+            "description": "Fresh salmon slices on vinegared rice",
+            "price": 4.99,
+            "imageURL": "",
+            "allergens": ["Fish", "Soy"],
+            "dietaryNeeds": ["Non-Vegetarian"],
+            "customizationGroups": []
+          }      
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Burger Haven",
+    "description": "Taste the juiciest burgers in town with a variety of toppings.",
+    "address": "Chicago, IL",
+    "imageURL": "",
+    "logoURL": "",
+    "cuisine": "American",
+    "restaurantID": "restaurant-000004",
+    "geoPoint": {
+      "latitude": 41.878113,
+      "longitude": -87.629799
+    },  
+    "experiences": ["Casual Dining", "Sports Bar"],
+    "categories": [
+      {
+        "name": "Burgers",
+        "description": "Indulge in mouthwatering burgers with your favorite toppings",
+        "menuItems": [
+          {
+            "name": "Classic Cheeseburger",
+            "description": "Beef patty with cheese, lettuce, tomato, and special sauce",
+            "price": 8.99,
+            "imageURL": "",
+            "allergens": ["Dairy", "Soy"],
+            "dietaryNeeds": ["Non-Vegetarian"],
+            "customizationGroups": [
+              {
+                "name": "Toppings",
+                "maxModifiers": 4,
+                "customizations": [
+                  {
+                    "option": "Bacon",
+                    "priceModifier": 1.5
+                  },
+                  {
+                    "option": "Onions",
+                    "priceModifier": 0.5
+                  },
+                  {
+                    "option": "Pickles",
+                    "priceModifier": 0.5
+                  }
+                ]
+              }
+            ]
+          }      
+        ]
+      },
+      {
+        "name": "Chicken Wings",
+        "description": "Enjoy crispy chicken wings with various sauces",
+        "menuItems": [
+          {
+            "name": "Spicy BBQ Wings",
+            "description": "Crispy chicken wings with spicy BBQ sauce",
+            "price": 10.99,
+            "imageURL": "",
+            "allergens": ["Soy"],
+            "dietaryNeeds": ["Non-Vegetarian"],
+            "customizationGroups": [
+              {
+                "name": "Sauce",
+                "maxModifiers": 1,
+                "customizations": [
+                  {
+                    "option": "Ranch",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Blue Cheese",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Honey Mustard",
+                    "priceModifier": 0.5
+                  }
+                ]
+              }
+            ]
+          }      
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mediterranean Flavors",
+    "description": "Enjoy the taste of the Mediterranean with fresh ingredients.",
+    "address": "Miami, FL",
+    "imageURL": "",
+    "logoURL": "",
+    "cuisine": "Mediterranean",
+    "restaurantID": "restaurant-000005",
+    "geoPoint": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },  
+    "experiences": ["Casual Dining", "Patio Dining"],
+    "categories": [
+      {
+        "name": "Hummus",
+        "description": "Savor creamy hummus served with pita bread",
+        "menuItems": [
+          {
+            "name": "Classic Hummus",
+            "description": "Smooth chickpea puree with tahini and olive oil",
+            "price": 6.99,
+            "imageURL": "",
+            "allergens": ["Sesame"],
+            "dietaryNeeds": ["Vegetarian"],
+            "customizationGroups": [
+              {
+                "name": "Toppings",
+                "maxModifiers": 2,
+                "customizations": [
+                  {
+                    "option": "Roasted Red Pepper",  
+                    "priceModifier": 1.0
+                  },
+                  {
+                    "option": "Pine Nuts",
+                    "priceModifier": 0.5
+                  }
+                ]
+              }
+            ]
+          }      
+        ]
+      },
+      {
+        "name": "Kebabs",
+        "description": "Satisfy your cravings with succulent kebabs",
+        "menuItems": [
+          {
+            "name": "Chicken Shawarma",
+            "description": "Marinated chicken grilled to perfection",
+            "price": 12.99,
+            "imageURL": "",
+            "allergens": ["Soy"],
+            "dietaryNeeds": ["Non-Vegetarian"],
+            "customizationGroups": [
+              {
+                "name": "Sides",
+                "maxModifiers": 1,
+                "customizations": [
+                  {
+                    "option": "Rice",
+                    "priceModifier": 2.0
+                  },
+                  {
+                    "option": "Tabbouleh",
+                    "priceModifier": 1.5
+                  }
+                ]
+              }
+            ]
+          }      
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sizzling Steaks",
+    "description": "Experience the finest cuts of steak cooked to perfection.",
+    "address": "Dallas, TX",
+    "imageURL": "",
+    "logoURL": "",
+    "cuisine": "Steakhouse",
+    "restaurantID": "restaurant-000006",
+    "geoPoint": {
+      "latitude": 32.7767,
+      "longitude": -96.7970
+    },  
+    "experiences": ["Fine Dining", "Live Music"],
+    "categories": [
+      {
+        "name": "Steak Cuts",
+        "description": "Indulge in a variety of prime steak cuts",
+        "menuItems": [
+          {
+            "name": "Filet Mignon",
+            "description": "Tender and flavorful filet mignon",
+            "price": 28.99,
+            "imageURL": "",
+            "allergens": ["None"],
+            "dietaryNeeds": ["Non-Vegetarian"],
+            "customizationGroups": [
+              {
+                "name": "Cooking Style",
+                "maxModifiers": 1,
+                "customizations": [
+                  {
+                    "option": "Rare",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Medium Rare",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Medium",
+                    "priceModifier": 0.0
+                  }
+                ]
+              }
+            ]
+          }      
+        ]
+      },
+      {
+        "name": "Seafood",
+        "description": "Enjoy fresh seafood dishes from the ocean",
+        "menuItems": [
+          {
+            "name": "Lobster Tail",
+            "description": "Grilled lobster tail with garlic butter",
+            "price": 32.99,
+            "imageURL": "",
+            "allergens": ["Shellfish", "Dairy"],
+            "dietaryNeeds": ["Non-Vegetarian"],
+            "customizationGroups": []
+          }      
+        ]
+      }
+    ]
+  }
+]

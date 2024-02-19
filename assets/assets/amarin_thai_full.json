@@ -1,0 +1,792 @@
+[
+    {
+        "name": "Amarin Thai",
+        "description": "Experience the rich flavors of Thai cuisine.",
+        "address": "174 Castro St, Mountain View, CA 94041",
+        "imageURL": "https://lh5.googleusercontent.com/p/AF1QipO1OOGihFxtwwurtdVj0cqxM3UL93vPsouUyVXB=w415-h240-k-no",
+        "logoURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+        "cuisine": "Thai",
+        "restaurantID": "restaurant-000001",
+        "geoPoint": {
+            "latitude": 37.39599466974627, 
+            "longitude": -122.07897686128975
+        },    
+        "categories": [
+            {
+                "name": "Starters",
+                "description": "Savor the First Bites of Thailand's Culinary Excellence.",
+                "menuItems": [
+                    {
+                        "name": "Hot & Sour Prawns(2) & Mushroom Soup",
+                        "description": "A tantalizing blend of prawns and mushrooms in a tangy, spicy broth. Perfect to kick-start your meal.",
+                        "price": 9.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_1a8085197df1467d94d2831137d78294~mv2.jpg/v1/fill/w_464,h_464,usm_1.20_1.00_0.01/file.webp",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": []
+                    },
+                    {
+                        "name": "Papaya Salad (small size)",
+                        "description": "Fresh, shredded papaya combined with zesty flavors and a hint of spice, served in a delightful small portion.",
+                        "price": 7.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_c89d49b3bd9a4d62916248a1c4494359~mv2.jpg/v1/fill/w_464,h_464,usm_1.20_1.00_0.01/file.webp",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": []
+                    },
+                    {
+                        "name": "Fried Spring Roll (2)",
+                        "description": "Crispy spring rolls filled with a savory mix of vegetables, served in pairs for a delightful crunch.",
+                        "price": 4.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_9469b0dca409478296198a85d59fde7e~mv2.jpg/v1/fill/w_464,h_464,usm_1.20_1.00_0.01/file.webp",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": []
+                    },
+                    {
+                        "name": "Samosa (3)",
+                        "description": "A trio of golden-brown samosas, each filled with a delicious medley of spiced potatoes and peas.",
+                        "price": 5.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_3c75aaa1a06f481bab65794e0bf0c4eb~mv2.jpg/v1/fill/w_464,h_464,usm_1.20_1.00_0.01/file.webp",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": []
+                    },
+                    {
+                        "name": "Chicken Satay (2)",
+                        "description": "Skewers of tender grilled chicken marinated in aromatic spices, served with a side of rich peanut sauce.",
+                        "price": 5.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_42110669e5804e5d8ed871feb6d7af66~mv2.jpg/v1/fill/w_464,h_464,usm_1.20_1.00_0.01/file.webp",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": []
+                    }
+                ]    
+            },
+            {
+                "name": "Main Dishes",
+                "description": "Journey Through Thai Culture One Dish at a Time.",
+                "menuItems": [
+                    {
+                        "name": "Boat Soup with Beef",
+                        "description": "A hearty beef soup with aromatic herbs and spices, served in a traditional boat-shaped bowl.",
+                        "price": 22.99,
+                        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Boat_noodles.jpg",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": []
+                    },
+                    {
+                        "name": "Spicy Basil",
+                        "description": "Sliced chicken stir-fried with vibrant basil leaves and a blend of spicy flavors for an exciting dish.",
+                        "price": 18.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_decdf8092bc4455ca0286ecea37076b9~mv2.jpg/v1/fill/w_464,h_464,usm_1.20_1.00_0.01/file.webp",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Protein",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Chicken",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Tofu",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Pork",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Beef",
+                                        "priceModifier": 3.0
+                                    },
+                                    {
+                                        "option": "Prawns",
+                                        "priceModifier": 3.0
+                                    },
+                                    {
+                                        "option": "Jasmine Rice",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Jasmine Rice with Fried Egg",
+                                        "priceModifier": 3.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fried Garlic Pork Chop",
+                        "description": "Succulent pork chops marinated with garlic, deep-fried to perfection, and served with a savory twist.",
+                        "price": 19.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Rice",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Sticky Rice",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Jasmine Rice",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Hot & Sour Soup",
+                                        "priceModifier": 0.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Khao Mok Gai (Baked Chicken)",
+                        "description": "Fragrant Thai-style baked chicken with aromatic rice, exuding rich and comforting flavors.",
+                        "price": 19.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Rice",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Fragrant Yellow Rice",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Hot & Sour Soup",
+                                        "priceModifier": 0.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chicken Breast with Garlic Rice",
+                        "description": "Grilled chicken breast served alongside fragrant garlic-infused rice, a harmonious pairing of tastes.",
+                        "price": 19.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Soup",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Hot & Sour Soup",
+                                        "priceModifier": 0.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Spicy Basil Tofu Scallops",
+                        "description": "Pan-seared tofu transformed with bold basil and spices, creating a mouthwatering vegan delight.",
+                        "price": 18.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Rice",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Jasmine Rice",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Jasmine Rice with Fried Egg",
+                                        "priceModifier": 3.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Larb Grilled Salmon",
+                        "description": "Grilled salmon served atop a bed of fresh herbs and greens, drizzled with tangy and spicy larb dressing.",
+                        "price": 22.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Salad",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Salad",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Steamed Vegetables",
+                                        "priceModifier": 0.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Spicy Basil Cubed Ribeye",
+                        "description": "Succulent ribeye cubes wok-fried with fiery basil and spices, a robust explosion of flavors.",
+                        "price": 22.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Rice",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Jasmine Rice",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Jasmine Rice with Fried Egg",
+                                        "priceModifier": 3.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Yellow Curry",
+                        "description": "Tender chicken simmered in a luscious yellow curry, infused with aromatic herbs and a hint of spice.",
+                        "price": 20.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Protein",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Chicken",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Shrimp",
+                                        "priceModifier": 3.0
+                                    },
+                                    {
+                                        "option": "Salad",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Roti",
+                                        "priceModifier": 0.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cod Green Curry",
+                        "description": "Flaky cod fish bathed in a creamy green curry sauce, a harmonious blend of seafood and aromatic spices.",
+                        "price": 22.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Noodle",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Thai Noodle",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Salad",
+                                        "priceModifier": 0.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stir Fried Curry Powder",
+                        "description": "A symphony of vegetables and protein stir-fried with aromatic curry powder, delivering a unique twist.",
+                        "price": 19.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Protein",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Chicken",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Pork",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Tofu with 2 Eggs",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Prawns",
+                                        "priceModifier": 3.0
+                                    },
+                                    {
+                                        "option": "Calamari",
+                                        "priceModifier": 3.0
+                                    },
+                                    {
+                                        "option": "Jasmine Rice",
+                                        "priceModifier": 0.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Roasted Chicken Curry with Pineapple",
+                        "description": "Roasted chicken and sweet pineapple in a fragrant curry, a perfect balance of savory and fruity.",
+                        "price": 22.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Rice",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Coconut Rice",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Salad",
+                                        "priceModifier": 0.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Panang Curry",
+                        "description": "Creamy Panang curry enriched with chicken, offering a delightful harmony of nutty and spicy flavors.",
+                        "price": 18.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Protein",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Chicken",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Tofu",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Pork",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Beef",
+                                        "priceModifier": 3.0
+                                    },
+                                    {
+                                        "option": "Prawns",
+                                        "priceModifier": 3.0
+                                    },
+                                    {
+                                        "option": "Jasmine Rice",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Jasmine Rice with Fried Egg",
+                                        "priceModifier": 3.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mussamun Curry",
+                        "description": "Chicken slow-cooked in rich Mussamun curry, showcasing tender meat with a medley of Thai spices.",
+                        "price": 18.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Protein",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Chicken",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Jasmine Rice",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Jasmine Rice with Fried Egg",
+                                        "priceModifier": 3.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Northern Style Pork Belly & Pork Rib Curry",
+                        "description": "Savory pork belly and rib pieces stewed in a Northern-style curry, capturing authentic regional tastes.",
+                        "price": 18.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Rice",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Jasmine Rice",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Sticky Rice",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Salad",
+                                        "priceModifier": 0.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Boat Noodles",
+                        "description": "Traditional boat noodles featuring a rich broth, tender meat, and rice noodles, served with aromatic herbs.",
+                        "price": 18.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Noodles",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Thai Noodle",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Egg Noodle",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Mama",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Braised Chicken",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Braised Beef and Beef Balls",
+                                        "priceModifier": 1.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Khao Soi",
+                        "description": "A Northern Thai classic, Khao Soi boasts egg noodles in a fragrant curry, garnished with delightful toppings.",
+                        "price": 17.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Protein",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Tofu and Vegetable",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Drumstick & Boneless chicken Thigh",
+                                        "priceModifier": 1.0
+                                    },
+                                    {
+                                        "option": "Prawns",
+                                        "priceModifier": 3.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Khao Kha Moo",
+                        "description": "Tender stewed pork leg served over rice, accompanied by a flavorful broth and pickled vegetables.",
+                        "price": 19.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Protein",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Braised Pork leg",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Jasmine Rice",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Pickled Mustard",
+                                        "priceModifier": 0.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thai Omelets ",
+                        "description": "Fluffy omelets prepared Thai style, with the option to include zesty basil for an extra kick.",
+                        "price": 17.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Spice",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Spicy Basil",
+                                        "priceModifier": 0.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thai Omelets",
+                        "description": "Fluffy omelets prepared Thai style, with the option to include zesty basil for an extra kick.",
+                        "price": 17.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Non-Vegetarian"
+                        ],
+                        "customizationGroups": [
+                            {
+                                "name": "Spice",
+                                "maxModifiers": 1,
+                                "customizations": [
+                                    {
+                                        "option": "Regular Basil",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Fried with Corn, Pea and Carrot",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Fried with Chopped Chicken /or Pork",
+                                        "priceModifier": 1.0
+                                    },
+                                    {
+                                        "option": "Fried with Chopped Prawns",
+                                        "priceModifier": 2.0
+                                    },
+                                    {
+                                        "option": "Fried with Crab",
+                                        "priceModifier": 3.0
+                                    },
+                                    {
+                                        "option": "Jasmine Rice",
+                                        "priceModifier": 0.0
+                                    },
+                                    {
+                                        "option": "Hot & Sour Soup",
+                                        "priceModifier": 0.0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]    
+            },
+            {
+                "name": "Desserts",
+                "description": "Culminate Your Meal with Thai Desserts that Capture the Heart.",
+                "menuItems": [
+                    {
+                        "name": "Sweet Rice with Mango (Seasonal)",
+                        "description": "A sweet finale \u2013 sticky rice accompanied by ripe mango slices, a delicious way to conclude your meal.",
+                        "price": 12.99,
+                        "imageURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+                        "allergens": [
+                            "Gluten",
+                            "Soy"
+                        ],
+                        "dietaryNeeds": [
+                            "Vegetarian"
+                        ],
+                        "customizationGroups": []
+                    }
+                ]    
+            }
+        ]
+    }
+]

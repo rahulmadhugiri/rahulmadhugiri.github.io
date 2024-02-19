@@ -1,0 +1,203 @@
+[
+  {
+    "name": "Amarin Thai",
+    "description": "Experience the rich flavors of Thai cuisine.",
+    "address": "174 Castro St, Mountain View, CA 94041",
+    "imageURL": "https://lh5.googleusercontent.com/p/AF1QipO1OOGihFxtwwurtdVj0cqxM3UL93vPsouUyVXB=w415-h240-k-no",
+    "logoURL": "https://static.wixstatic.com/media/55065f_5e11e3ca1cda4aafa05f721af6c0d656~mv2.png/v1/fill/w_286,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amarin-Thai-cuisine-Logo.png",
+    "cuisine": "Thai",
+    "restaurantID": "restaurant-000001",
+    "geoPoint": {
+      "latitude": 37.39599466974627, 
+      "longitude": -122.07897686128975
+    },    
+    "categories": [
+      {
+        "name": "Starters",
+        "description": "Start your meal with delectable starters from Thailand",
+        "menuItems": [
+          {
+            "name": "Hot & Sour Prawns(2) & Mushroom Soup",
+            "description": "????",
+            "price": 9.99,
+            "imageURL": "https://example.com/spring-rolls.jpg",
+            "allergens": ["Gluten", "Soy"],
+            "dietaryNeeds": ["Non-Vegetarian"],
+            "customizationGroups": [
+              {
+                "name": "Dipping Sauce",
+                "maxModifiers": 1,
+                "customizations": [
+                  {
+                    "option": "Sweet Chili",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Soy Ginger",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Spicy Peanut",
+                    "priceModifier": 0.5
+                  }
+                ]
+              },
+              {
+                "name": "Sauce",
+                "maxModifiers": 1,
+                "customizations": [
+                  {
+                    "option": "Sweet Chili",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Soy Ginger",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Spicy Peanut",
+                    "priceModifier": 0.5
+                  }
+                ]
+              }
+            ]
+          }        
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thai Basil",
+    "description": "Experience the rich flavors of Thai cuisine.",
+    "address": "CA",
+    "imageURL": "",
+    "logoURL": "",
+    "cuisine": "Thai",
+    "restaurantID": "restaurant-000002",
+    "geoPoint": {
+      "latitude": 37.39599466974627, 
+      "longitude": -122.07897686128975
+    },    
+    "categories": [
+      {
+        "name": "Starters",
+        "description": "Start your meal with delectable starters from Thailand",
+        "menuItems": [
+          {
+            "name": "Hot & Sour Prawns(2) & Mushroom Soup",
+            "description": "????",
+            "price": 9.99,
+            "imageURL": "https://example.com/spring-rolls.jpg",
+            "allergens": ["Gluten", "Soy"],
+            "dietaryNeeds": ["Non-Vegetarian"],
+            "customizationGroups": [
+              {
+                "name": "Dipping Sauce",
+                "maxModifiers": 1,
+                "customizations": [
+                  {
+                    "option": "Sweet Chili",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Soy Ginger",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Spicy Peanut",
+                    "priceModifier": 0.5
+                  }
+                ]
+              },
+              {
+                "name": "Sauce",
+                "maxModifiers": 1,
+                "customizations": [
+                  {
+                    "option": "Sweet Chili",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Soy Ginger",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Spicy Peanut",
+                    "priceModifier": 0.5
+                  }
+                ]
+              }
+            ]
+          }        
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Basil Garden",
+    "description": "Experience the rich flavors of Thai cuisine.",
+    "address": "CA",
+    "imageURL": "",
+    "logoURL": "",
+    "cuisine": "Thai",
+    "restaurantID": "restaurant-000003",
+    "geoPoint": {
+      "latitude": 37.39599466974627, 
+      "longitude": -122.07897686128975
+    },    
+    "categories": [
+      {
+        "name": "Starters",
+        "description": "Start your meal with delectable starters from Thailand",
+        "menuItems": [
+          {
+            "name": "Hot & Sour Prawns(2) & Mushroom Soup",
+            "description": "????",
+            "price": 9.99,
+            "imageURL": "https://example.com/spring-rolls.jpg",
+            "allergens": ["Gluten", "Soy"],
+            "dietaryNeeds": ["Non-Vegetarian"],
+            "customizationGroups": [
+              {
+                "name": "Dipping Sauce",
+                "maxModifiers": 1,
+                "customizations": [
+                  {
+                    "option": "Sweet Chili",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Soy Ginger",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Spicy Peanut",
+                    "priceModifier": 0.5
+                  }
+                ]
+              },
+              {
+                "name": "Sauce",
+                "maxModifiers": 1,
+                "customizations": [
+                  {
+                    "option": "Sweet Chili",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Soy Ginger",
+                    "priceModifier": 0.0
+                  },
+                  {
+                    "option": "Spicy Peanut",
+                    "priceModifier": 0.5
+                  }
+                ]
+              }
+            ]
+          }        
+        ]
+      }
+    ]
+  }
+]

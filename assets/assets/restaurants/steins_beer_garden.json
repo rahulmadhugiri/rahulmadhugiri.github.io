@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Steins Beer Garden",
+    "listingType": "partner",
+    "description": "31 Beers on Tap, Craft Cocktails, Wine and Spirits. New American Cuisine. Made 100% from Scratch",
+    "address": "895 Villa St, Mountain View, CA 94041",
+    "imageURL": "https://www.juicer.io/api/posts/473986274/images.jpg?external_id=CwgaZm2PeHp&s=812b83f2116445f298f5b0472b81e9f19428ccd8",
+    "logoURL": "https://images.getbento.com/accounts/593b08bfd578eb0fba63aaec71499d74/media/images/36589SteinsBeerGarden_BeerMat-BentoLogo.png",
+    "cuisine": "Beer",
+    "restaurantID": "restaurant-000003",
+    "geoPoint": {
+      "latitude": 37.39451359,
+      "longitude": -122.0799279
+    },
+    "experiences": [
+      "Outdoor Seating"
+    ],
+    "open": false,
+    "categories": [
+      {
+        "name": "STARTERS",
+        "description": "",
+        "menuItems": [
+          {
+            "name": "House-made Corn Nuts",
+            "menuItemID": "menuitem-0001",
+            "description": "Giant white corn, house seasoning, lemon pepper, salt",
+            "price": 8.0,
+            "imageURL": "",
+            "allergens": [
+              ""
+            ],
+            "dietaryNeeds": [
+              "Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Fresh Baked Pretzels",
+            "menuItemID": "menuitem-0002",
+            "description": "Caraway beer mustard, pub cheese, tomato jam",
+            "price": 15.0,
+            "imageURL": "",
+            "allergens": [
+              "wheat",
+              " eggs",
+              " dairy"
+            ],
+            "dietaryNeeds": [
+              "Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "St. Louis BBQ Ribs",
+            "menuItemID": "menuitem-0003",
+            "description": "St. Louis style BBQ ribs served with coleslaw",
+            "price": 16.0,
+            "imageURL": "",
+            "allergens": [
+              "dairy"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "House-made Ceviche",
+            "menuItemID": "menuitem-0004",
+            "description": "Shrimp, lime, veggie cocktail, served with house-made tortilla chips",
+            "price": 16.0,
+            "imageURL": "",
+            "allergens": [
+              ""
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Steins Baked Wings",
+            "menuItemID": "menuitem-0005",
+            "description": "Red cabbage, bleu cheese, choice of sauce (buffalo, sweet & sour, BBQ)",
+            "price": 16.0,
+            "imageURL": "",
+            "allergens": [
+              "dairy"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Fried Calamari",
+            "menuItemID": "menuitem-0006",
+            "description": "Fried jalape\u00f1os & lemon, chipotle aioli & sweet samui dips",
+            "price": 16.0,
+            "imageURL": "",
+            "allergens": [
+              "eggs",
+              " wheat",
+              " dairy"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Chicken Strips",
+            "menuItemID": "menuitem-0007",
+            "description": "Buttermilk marinated Petaluma cage-free chicken thigh, crisp breading. Includes 3 house sauces",
+            "price": 19.0,
+            "imageURL": "",
+            "allergens": [
+              "wheat",
+              " dairy"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Sea Salt Fries",
+            "menuItemID": "menuitem-0008",
+            "description": "Kennebec potatoes",
+            "price": 12.0,
+            "imageURL": "",
+            "allergens": [
+              ""
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Truffle Fries",
+            "menuItemID": "menuitem-0009",
+            "description": "Parmesan, parsley and lemon garlic aioli",
+            "price": 14.0,
+            "imageURL": "",
+            "allergens": [
+              "eggs"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Cajun Fries",
+            "menuItemID": "menuitem-0010",
+            "description": "House-blended cajun seasoning",
+            "price": 14.0,
+            "imageURL": "",
+            "allergens": [
+              ""
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Sausage Plate FOR TWO",
+            "menuItemID": "menuitem-0011",
+            "description": "Housemade cheddar beef brat, spicy pork sausage, chicken sausage, sauerkraut, mustard, potato salad, crostini",
+            "price": 24.0,
+            "imageURL": "",
+            "allergens": [
+              "eggs",
+              " wheat",
+              " dairy"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Chicken Nachos",
+            "menuItemID": "menuitem-0012",
+            "description": "Petaluma cage-free chicken thigh, guacamole, cheese sauce, pico de gallo, pickled jalapeno, roasted salsa, crema",
+            "price": 18.0,
+            "imageURL": "",
+            "allergens": [
+              "wheat",
+              " dairy"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Mac & Cheese",
+            "menuItemID": "menuitem-0013",
+            "description": "Aged white cheddar, fontina, parmesan, buttery bread crumbs",
+            "price": 18.0,
+            "imageURL": "",
+            "allergens": [
+              "wheat",
+              " dairy"
+            ],
+            "dietaryNeeds": [
+              "Vegetarian"
+            ],
+            "customizationGroups": []
+          }
+        ]
+      },
+      {
+        "name": "SLIDERS",
+        "description": "",
+        "menuItems": [
+          {
+            "name": "PB & J Bacon Sliders",
+            "menuItemID": "menuitem-0014",
+            "description": "Short rib, brisket and sirloin patty blend, peanut butter, housemade sweet tomato jam, cheddar cheese, house cured bacon",
+            "price": 18.0,
+            "imageURL": "",
+            "allergens": [
+              "eggs",
+              " wheat",
+              " dairy",
+              " treenuts"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Cochinita Pork Sliders",
+            "menuItemID": "menuitem-0015",
+            "description": "Pulled pork, lemon pickle coleslaw, chipotle aioli",
+            "price": 19.0,
+            "imageURL": "",
+            "allergens": [
+              "eggs",
+              " wheat",
+              " dairy"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Pastrami Reuben Sliders",
+            "menuItemID": "menuitem-0016",
+            "description": "House-cured pastrami, sauerkraut, cheddar cheese and thousand island dressing",
+            "price": 19.0,
+            "imageURL": "",
+            "allergens": [
+              "dairy"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Grilled Veggie",
+            "menuItemID": "menuitem-0017",
+            "description": "Yellow squash, zucchini, red onion, arugula, basil pesto, lemon dressing",
+            "price": 17.0,
+            "imageURL": "",
+            "allergens": [
+              "eggs",
+              " wheat",
+              " dairy"
+            ],
+            "dietaryNeeds": [
+              "Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "TRY ALL FOUR",
+            "menuItemID": "menuitem-0018",
+            "description": "A sampling of each of our sliders",
+            "price": 20.0,
+            "imageURL": "",
+            "allergens": [
+              ""
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          }
+        ]
+      },
+      {
+        "name": "SALADS",
+        "description": "",
+        "menuItems": [
+          {
+            "name": "Steins House Salad",
+            "menuItemID": "menuitem-0019",
+            "description": "Cucumber, cherry tomato, red onion, lemon vinaigrette and spring mix",
+            "price": 18.0,
+            "imageURL": "",
+            "allergens": [
+              ""
+            ],
+            "dietaryNeeds": [
+              "Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Rainbow Fris\u00e9e",
+            "menuItemID": "menuitem-0020",
+            "description": "Fris\u00e9e, arugula, baby fennel, yams, dried figs, blood orange, toasted almond, lightly tossed in citrus vinaigrette",
+            "price": 19.0,
+            "imageURL": "",
+            "allergens": [
+              "nuts"
+            ],
+            "dietaryNeeds": [
+              "Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Strawberry Kale",
+            "menuItemID": "menuitem-0021",
+            "description": "Kale, pickled strawberries, feta, toasted pecans, roasted baby carrots, pickled watermelon radish, berry vinaigrette",
+            "price": 19.0,
+            "imageURL": "",
+            "allergens": [
+              "dairy",
+              " nuts"
+            ],
+            "dietaryNeeds": [
+              "Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "California Cobb",
+            "menuItemID": "menuitem-0022",
+            "description": "Butter lettuce, spring mix, cherry tomatoes, red onion, cucumber, avocado, egg, pork belly, bleu cheese dressing",
+            "price": 19.0,
+            "imageURL": "",
+            "allergens": [
+              "dairy",
+              " eggs"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Roasted Beet & Mango",
+            "menuItemID": "menuitem-0023",
+            "description": "Cucumber, avocado, goat cheese, onion, & candied pecans tossed in spring greens with a mango vinaigrette",
+            "price": 18.0,
+            "imageURL": "",
+            "allergens": [
+              "dairy"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          }
+        ]
+      },
+      {
+        "name": "ENTREES",
+        "description": "",
+        "menuItems": [
+          {
+            "name": "Short Rib with Basil Mash",
+            "menuItemID": "menuitem-0024",
+            "description": "Braised short ribs, creamy mushroom marsala, basil mashed potatoes, roasted vegetables",
+            "price": 29.0,
+            "imageURL": "",
+            "allergens": [
+              "dairy"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Steins Sirloin",
+            "menuItemID": "menuitem-0025",
+            "description": "7oz sirloin, red wine & veal stock reduction, seasoned heirloom vegetables, garlic mashed potatoes",
+            "price": 27.0,
+            "imageURL": "",
+            "allergens": [
+              "dairy"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Oven-Roasted Half Chicken",
+            "menuItemID": "menuitem-0026",
+            "description": "Petaluma cage-free half chicken roasted, roasted vegetables, mashed potatoes, fresh baked biscuits",
+            "price": 26.0,
+            "imageURL": "",
+            "allergens": [
+              "dairy",
+              " wheat"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Honey Garlic Pork Chops",
+            "menuItemID": "menuitem-0027",
+            "description": "Saut\u00e9ed pork chops, grilled vegetables, garlic mashed potatoes, spiced honey vinaigrette",
+            "price": 28.0,
+            "imageURL": "",
+            "allergens": [
+              "dairy"
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          },
+          {
+            "name": "Crispy Fish Tacos (3)",
+            "menuItemID": "menuitem-0028",
+            "description": "Beer battered Rock Cod, mango coleslaw, pico de gallo, avocado aioli",
+            "price": 20.0,
+            "imageURL": "",
+            "allergens": [
+              ""
+            ],
+            "dietaryNeeds": [
+              "Non-Vegetarian"
+            ],
+            "customizationGroups": []
+          }
+        ]
+      }
+    ]
+  }
+]
